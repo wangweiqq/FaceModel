@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/Chartridge046_small.jpg</file>
+        <file>Image/company.png</file>
+        <file>Image/Contact.png</file>
+        <file>Image/favicon.ico</file>
+        <file>Image/ms-icon-310x310.png</file>
+        <file>Image/ProfilePic.jpg</file>
+        <file>Image/close.png</file>
+        <file>Image/shezhi.png</file>
+    </qresource>
+</RCC>
